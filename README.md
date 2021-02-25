@@ -1,2 +1,2 @@
 # first
-This is my first project
+In this project I will try to repeat and systematize my knowledge.
