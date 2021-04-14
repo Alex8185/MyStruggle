@@ -1,2 +1,1 @@
-# first
-In this project I will try to repeat and systematize my knowledge.
+В репозитории планирую собирать и прорабатывать практические примеры с занятий и лекций по java
